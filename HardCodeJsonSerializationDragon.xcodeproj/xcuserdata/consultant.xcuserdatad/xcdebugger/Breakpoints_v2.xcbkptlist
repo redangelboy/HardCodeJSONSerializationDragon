@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A4E3239-27EE-42CE-9BA1-4032584CB0A4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "541533A4-5A00-47FA-8747-977F03442EC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HardCodeJsonSerializationDragon/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getDragonManually()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "541533A4-5A00-47FA-8747-977F03442EC5 - a93c3cd4d55e5bf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HardCodeJsonSerializationDragon.NetworkManager.getDragonManually() -&gt; Swift.Optional&lt;HardCodeJsonSerializationDragon.Dragon&gt;"
+                  moduleName = "HardCodeJsonSerializationDragon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Carpeta%20git/iOS/HardCodeJsonSerializationDragon/HardCodeJsonSerializationDragon/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "265">
+               </Location>
+               <Location
+                  uuid = "541533A4-5A00-47FA-8747-977F03442EC5 - a93c3cd4d55e5bf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HardCodeJsonSerializationDragon.NetworkManager.getDragonManually() -&gt; Swift.Optional&lt;HardCodeJsonSerializationDragon.Dragon&gt;"
+                  moduleName = "HardCodeJsonSerializationDragon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Carpeta%20git/iOS/HardCodeJsonSerializationDragon/HardCodeJsonSerializationDragon/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "553">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB26797C-F04F-4C37-BFED-E9BCD98A8AF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HardCodeJsonSerializationDragon/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "parseDragonManually(base:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB26797C-F04F-4C37-BFED-E9BCD98A8AF2 - e4d6b461ba8d11a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HardCodeJsonSerializationDragon.NetworkManager.parseDragonManually(base: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;HardCodeJsonSerializationDragon.Dragon&gt;"
+                  moduleName = "HardCodeJsonSerializationDragon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Carpeta%20git/iOS/HardCodeJsonSerializationDragon/HardCodeJsonSerializationDragon/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "563">
+               </Location>
+               <Location
+                  uuid = "BB26797C-F04F-4C37-BFED-E9BCD98A8AF2 - e4d6b461ba8d11a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HardCodeJsonSerializationDragon.NetworkManager.parseDragonManually(base: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; Swift.Optional&lt;HardCodeJsonSerializationDragon.Dragon&gt;"
+                  moduleName = "HardCodeJsonSerializationDragon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Carpeta%20git/iOS/HardCodeJsonSerializationDragon/HardCodeJsonSerializationDragon/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8F617E1-79A3-44B7-9C15-B8BAAD0D9918"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HardCodeJsonSerializationDragon/ViewControler/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "decodeButtonPressed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
